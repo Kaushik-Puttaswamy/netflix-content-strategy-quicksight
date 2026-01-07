@@ -93,3 +93,32 @@ ifelse(type = 'Movie', 1, null)
 
 -- Total TV Shows
 ifelse(type = 'TV Show', 1, null)
+```
+## 🎨 Design Principles
+- Netflix dark theme (charcoal background with red accents)
+- Red used **only for emphasis**, not decoration
+- White values for high contrast and readability
+- Gray labels for contextual information
+- Free-form **1600px layout** for pixel-perfect alignment
+
+---
+
+## 🔗 Live Dashboard
+
+**Amazon QuickSight Dashboard:**  
+https://ap-south-1.quicksight.aws.amazon.com/sn/account/kaush-quicksight-project/dashboards/e6b938a8-e200-4889-83eb-fc150bf09594/views/7c5046bd-0bf7-4b9e-b729-54034e151a55
+
+> ⚠️ Requires Amazon QuickSight access permissions
+
+---
+
+## 📌 Key Takeaways
+- Netflix’s catalog has shifted strongly toward **TV Shows** in recent years
+- **International content** is a major growth driver
+- **TV-MA** dominates ratings, indicating an adult-focused content strategy
+- Post-2015 content growth is significantly higher than earlier years
+
+---
+
+## 📄 License
+This project is licensed under the **MIT License**.
